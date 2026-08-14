@@ -1,0 +1,26 @@
+VENDING MACHINE CONTROLLER - EXPECTED OUTPUT
+
+Item Price = ₹15
+
+Test 1:
+Inserted ₹5 + ₹10 = ₹15
+Selected item
+Dispense = 1
+Change = ₹0
+
+Test 2:
+Inserted ₹10 + ₹10 = ₹20
+Selected item
+Dispense = 1
+Change = ₹5
+
+
+Expected Result:
+-------------------------------
+Test 1: Item Dispensed
+         Change = ₹0
+
+Test 2: Item Dispensed
+         Change = ₹5
+
+Simulation completed successfully.
